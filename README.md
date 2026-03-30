@@ -1,6 +1,6 @@
-# ⬡ SATURN — Bitcoin Intelligence Terminal
+# ⬡ Bitcoin Intelligence Terminal
 
-> A hypermodern, Bloomberg-style on-chain analytics desktop application built with Python + PyQt5.
+> A hypermodern, on-chain analytics desktop application built with Python + PyQt5.
 
 ```
 ███████  █████  ████████ ██    ██ ██████  ███    ██ 
