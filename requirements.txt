@@ -1,0 +1,20 @@
+# SATURN — Bitcoin Intelligence Terminal
+# Python 3.11+
+
+# ── GUI ───────────────────────────────────────────────────────────────────────
+PyQt5>=5.15.9
+
+# ── HTTP / WebSocket ──────────────────────────────────────────────────────────
+requests>=2.31.0
+websocket-client>=1.7.0
+
+# ── Optional: Lightning gRPC (only needed for live LND connection) ────────────
+# grpcio>=1.60.0
+# grpcio-tools>=1.60.0
+# protobuf>=4.25.0
+
+# ── Optional: PySide6 alternative to PyQt5 ───────────────────────────────────
+# PySide6>=6.6.0
+
+# ── Utilities ────────────────────────────────────────────────────────────────
+python-dateutil>=2.8.2
